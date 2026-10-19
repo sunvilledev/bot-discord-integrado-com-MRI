@@ -1,6 +1,6 @@
 Config = {}
 
-Config.DiscordInvite = 'https://discord.gg/uEfGD4mmVh'
+Config.DiscordInvite = 'link discord'
 
 -- Na primeira conexão a qbx_core cria a linha em `users` ao mesmo tempo; espera ela aparecer.
 Config.WaitForUserMs = 8000
