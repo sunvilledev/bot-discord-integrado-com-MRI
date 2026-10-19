@@ -99,7 +99,7 @@ O bot funciona sem FiveM e sem MySQL: tickets, ponto, hierarquia, sugestões, ve
 ### 1. Baixar o projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/sunville-bot.git
+https://github.com/sunvilledev/bot-discord-integrado-com-MRI
 cd sunville-bot
 ```
 
