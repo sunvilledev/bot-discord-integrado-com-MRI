@@ -1,0 +1,26 @@
+{
+  "name": "sunville-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord da Sunville — tickets, hierarquia, FiveM, sugestões, logs, verificação, passlist, comandos in-game e bate-ponto",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "discord",
+    "fivem",
+    "qbcore",
+    "mri"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "mysql2": "^3.24.3",
+    "sql.js": "^1.14.2"
+  }
+}

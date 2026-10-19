@@ -1,0 +1,4 @@
+ALTER TABLE `players`
+ADD COLUMN IF NOT EXISTS `passlist` TINYINT(1) NOT NULL DEFAULT 0;
+
+SHOW COLUMNS FROM `players` LIKE 'passlist';

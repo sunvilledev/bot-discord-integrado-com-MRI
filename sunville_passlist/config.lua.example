@@ -1,0 +1,12 @@
+Config = {}
+
+Config.DiscordInvite = 'https://discord.gg/uEfGD4mmVh'
+
+Config.KickNoLicense =
+    'PREENCHER_AQUI'
+
+Config.KickNoUser =
+    'Sunville RP\n\nNão achei sua conta na tabela users.\nTente conectar de novo com o Discord vinculado no FiveM.\n\nSua License:\n>>  %s  <<\n\nDiscord: %s'
+
+Config.KickNotListed =
+    'Sunville RP\n\nVocê não está na passlist.\n\nSeu User ID:\n>>  %s  <<\n\nSua License:\n>>  %s  <<\n\nCopie a LICENSE.\n1. Formulário no Discord\n2. Espere a staff aprovar\n3. Canal de liberar ID — cole a license\n   ou peça para a staff te marcar / colar a license\n\nDiscord: %s'
